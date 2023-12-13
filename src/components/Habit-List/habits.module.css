@@ -1,0 +1,40 @@
+.habits {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.habits > * {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.habitsList {
+    max-height: 10vh;
+    overflow-y: auto;
+}
+
+.habitsReset {
+    font-size: 1.5rem;
+    padding: 0.2em 1em;
+    background-color: #da6082;
+    border: 1px solid black;
+    color: #fff;
+    border-radius: 5px;
+}
+
+/* Media Query */
+@media screen and (max-width: 1024px) {
+    .habits > * {
+        margin-bottom: 1em;
+    }
+
+    .habitsList {
+        max-height: 10vh;
+    }
+
+    .habitsReset {
+        font-size: 1.2rem;
+    }
+}

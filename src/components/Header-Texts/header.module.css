@@ -1,0 +1,47 @@
+.header {
+    cursor: pointer;
+    padding: 3em;
+    text-align: center;
+}
+
+.header h1 {
+    margin-bottom: 0.2em;
+    font-size: 3rem;
+    color: #fff;
+}
+
+.header p {
+    margin-bottom: 1.5em;
+    font-weight: 300;
+    color: #fff;
+}
+
+.headerCountAnnounce {
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.headerCount {
+    color: #fff;
+}
+
+/* Media Query */
+@media screen and (max-width: 540px) {
+    .header {
+        padding: 2em 1.5em;
+    }
+
+    .header h1 {
+        margin-bottom: 0.2em;
+        font-size: 3rem;
+    }
+
+    .header p {
+        font-size: 1.3rem;
+        margin-bottom: 0.8em;
+    }
+
+    .headerCountAnnounce {
+        font-size: 1.2rem;
+    }
+}
