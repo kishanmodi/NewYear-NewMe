@@ -4,7 +4,11 @@ Certainly! Writing a README is a great way to provide documentation and guidance
 
 # Motivation and Habit Tracker App
 
-![App Screenshot](./screenshot.png)
+<img width="1512" alt="Screenshot 2023-12-13 at 9 47 02 AM" src="https://github.com/kishanmodi/NewYear-NewMe/assets/45942161/c00626d8-1e88-4b78-a98b-2ff21750bea6">
+<img width="1512" alt="Screenshot 2023-12-13 at 9 47 09 AM" src="https://github.com/kishanmodi/NewYear-NewMe/assets/45942161/045bd3eb-ec28-492f-8b69-14b6a29be788">
+<img width="1512" alt="Screenshot 2023-12-13 at 9 47 14 AM" src="https://github.com/kishanmodi/NewYear-NewMe/assets/45942161/891e437d-8d07-4347-9968-a13992bf2c27">
+<img width="1512" alt="Screenshot 2023-12-13 at 9 47 22 AM" src="https://github.com/kishanmodi/NewYear-NewMe/assets/45942161/966b366e-9825-4cc5-9c34-fe15bd515b9d">
+<img width="1512" alt="Screenshot 2023-12-13 at 9 47 31 AM" src="https://github.com/kishanmodi/NewYear-NewMe/assets/45942161/ebb36cf4-9361-4e9d-a4c9-d50222d5a3ab">
 
 ## Table of Contents
 
@@ -17,6 +21,7 @@ Certainly! Writing a README is a great way to provide documentation and guidance
   - [Motivation Quotes](#motivation-quotes)
   - [Habit Tracker](#habit-tracker)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -41,13 +46,13 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/motivation-habit-tracker.git
+   https://github.com/kishanmodi/NewYear-NewMe
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd motivation-habit-tracker
+   cd NewYear-NewMe
    ```
 
 3. Install dependencies:
@@ -84,6 +89,10 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes to your fork.
 5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
