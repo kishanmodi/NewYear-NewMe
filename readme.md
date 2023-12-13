@@ -1,7 +1,3 @@
-Certainly! Writing a README is a great way to provide documentation and guidance for users and developers who want to use or contribute to your React application. Below is a sample README for your application:
-
----
-
 # Motivation and Habit Tracker App
 
 <img width="1512" alt="Screenshot 2023-12-13 at 9 47 02 AM" src="https://github.com/kishanmodi/NewYear-NewMe/assets/45942161/c00626d8-1e88-4b78-a98b-2ff21750bea6">
